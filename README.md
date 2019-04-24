@@ -9,18 +9,20 @@ US-ASCII characters (but not '*'). Every internal node has two branches. The res
 of binary digits. The digits represent a single message of length zero or more. The binary digits are a correctly encoded string
 of the given characters.
 
-(i.e.)
-**B**DECA
-10110101
-0010100
-0001010100
+(i.e.)\
+\*\*B\*\*DECA\
+10110101\
+0010100\
+0001010100\
 011100
+
 
 Output:
 Decode each message and print the US-ASCII characters of the decoded message on its own line.
 
-(i.e.)
-ACE
-BAD
-BED
+(i.e.)\
+ACE\
+BAD\
+BED\
 CAB
+
